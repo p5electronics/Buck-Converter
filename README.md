@@ -1,5 +1,6 @@
 # DC-DC Buck Converter Project
-A Simple Buck Converter Design done for Drexel's IEEE PCB Design Committee, I inttend to fab, assemble, and test this eventually.
+This project aims to design a straightforward yet efficient DC-DC Buck converter tailored for a various voltage inputs and outputs.
+Design done for Drexel's IEEE PCB Design Committee Workshop, I intend to fab, assemble, and test this eventually.
 
 ## Power Specs
 - Input voltage: 12V
