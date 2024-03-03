@@ -2,7 +2,7 @@
 This project aims to design a straightforward yet efficient DC-DC Buck converter tailored for a various voltage inputs and outputs.
 Design done for Drexel's IEEE PCB Design Committee Workshop, I intend to fab, assemble, and test this eventually.
 
-![3DRender](https://github.com/takizala/Buck-Converter/tree/main/images?raw=true)
+![3DRender](https://github.com/takizala/Buck-Converter/tree/main/images/Buck_Converter_PCB.png?raw=true)
 
 ## Power Specs
 - Input voltage: 12V
